@@ -1,8 +1,8 @@
 # Thông tin nhóm
 
-- Tên nhóm:
-- Mã thành viên (ba chữ số):
-- Người điều phối:
+- Tên nhóm: NhomNhangNhang
+- Mã thành viên (ba chữ số):101, 102, 103
+- Người điều phối: 
 - Người review bản cuối:
 - Commit chốt bài (điền ở kênh nộp sau khi commit):
 
