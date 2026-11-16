@@ -1,7 +1,7 @@
 # Guideline gán nhãn — v1.0 (bản nháp) — Nhóm Nhang Nhang
 
 - Phiên bản: v1.0-draft (chưa khóa — cần cả nhóm duyệt ở Pha 2)
-- Ngày: 2026-11-16
+- Ngày: 2026-11-16...
 - Người viết / duyệt: … / …
 - Loại nhãn: bounding box trên ảnh 2D · Công cụ: CVAT · Xuất: COCO 1.0
 - Phạm vi: 40 ảnh trong `data/images/`
