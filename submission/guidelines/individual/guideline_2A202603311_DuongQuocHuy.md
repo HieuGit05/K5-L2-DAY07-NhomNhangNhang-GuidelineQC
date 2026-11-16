@@ -154,7 +154,7 @@ Có động cơ / dùng chở người-hàng trên đường?  ── không ─
 | Sai box | Box bao cả hàng trên nóc tuk-tuk (R-10) |
 | Sai thuộc tính | Bị mép ảnh cắt nhưng `truncated=no` |
 
-### Ai quyết ca mơ hồ
+### Ai quyết ca mơ hồ........
 
 1. Người gán tick `can_review` + ghi vấn đề cấp ảnh (ảnh nào, phân vân giữa gì với gì).
 2. **Người review bản cuối** (ghi trong `TEAM.md`) quyết định theo guideline hiện hành.
