@@ -241,7 +241,7 @@ Cột **Loại**: `QT` = đã có quy tắc, làm theo, không tick. `HỎI` = l
 
 ## Phụ lục A: các điểm khác nhau giữa 3 bản và quyết định
 
-Nguồn: **A** = `guideline_2A202603248_DangTrungHieu.md`, **B** = `guideline_2A202603311_DuongQuocHuy.md`, **C** = `guideline_2A202604049_NguyenDucAnh.md`.
+Nguồn: **A** = `guideline_101.md`, **B** = `guideline_103.md`, **C** = `guideline_102.md`.
 
 | # | Điểm khác | A | B | C | **Chốt v1.0** | Lý do |
 |---|---|---|---|---|---|---|
