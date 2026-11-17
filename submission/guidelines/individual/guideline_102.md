@@ -1,8 +1,8 @@
-# Guideline gán nhãn — v0.1 — 2A202604049
+# Guideline gán nhãn — v0.1 — 102
 
 - Phiên bản: v0.1 (bản nháp cá nhân)
 - Ngày: 2026-11-16
-- Người viết: Nguyen Duc Anh
+- Người viết: 102
 - Loại nhãn: bounding box (hộp chữ nhật) trên ảnh đường phố
 - Công cụ: CVAT, xuất COCO 1.0
 

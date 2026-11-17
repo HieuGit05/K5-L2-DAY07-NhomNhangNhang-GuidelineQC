@@ -1,0 +1,6 @@
+image,annotator,region,note
+img_004.jpg,103,"tài xế tuk-tuk trái (x178-315,y125-433)","R-05: đầu thấy qua kính chắn gió nhưng chân/tay thấy trực tiếp từ hông; tạm gán person on_vehicle=yes"
+img_014.jpg,103,"người đi xe máy mờ mép phải (x865-960,y190-360)","R-15: mờ chuyển động, phân vân gán hay không; tạm gán person, truncated=yes"
+img_016.jpg,103,"đầu người mờ góc dưới trái (x0-95,y655-720)","R-15/R-04: chỉ thấy một phần đầu mờ; tạm gán person, truncated=yes"
+img_040.jpg,103,"2 gương xe máy mép dưới (x78-442,y476-640)","Ca HỎI Mục 4: chưa chắc gương thuộc xe người đội mũ hay xe chủ (R-03); tạm gán motorcycle occluded_level=3"
+img_040.jpg,103,"xe xanh mép trái (x0-72,y118-214)","R-06: không chắc loại xe (tuk-tuk hay xe khác); tạm gán three_wheeler"
