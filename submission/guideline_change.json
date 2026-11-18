@@ -1,0 +1,4 @@
+{
+  "kind": "semantic",
+  "summary": "v1.1 đổi nghĩa R-05 (người thấy một phần qua kính, một phần trực tiếp như tài xế tuk-tuk img_004 thì gán person, on_vehicle=yes) và làm rõ R-13 (vật cao từ 30 px phải gán riêng, không bỏ qua hay trùm ignore_region). Thêm bước soát thuộc tính và soát mép ảnh vì hai người để toàn bộ thuộc tính mặc định, và cả hai cùng bỏ sót 2 xe ở mép trái img_005. Chốt ca HỎI img_040. Taxonomy không đổi (v1.0). Phạm vi: rà cả lô 40 ảnh (các quyết định pham_vi=lo về thuộc tính và R-05)."
+}
